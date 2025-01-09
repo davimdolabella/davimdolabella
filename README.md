@@ -5,7 +5,7 @@
 </h1>
 <div align="center">
  
- 🌱 I’m currently learning **React, Node and Python**
+ 🌱 I’m currently learning **Django**
 
  </div>
 
