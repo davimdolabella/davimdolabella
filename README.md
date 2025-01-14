@@ -40,7 +40,7 @@
     <hr/>
     <div align="center">
         <h3>Contact Me</h3>
-        <a href="https://instagram.com/itsdavisouza">
+        <a href="https://instagram.com/davidolabella_p">
             <img src="https://skillicons.dev/icons?i=instagram" width=20 alt="Instagram" />
         </a> @davidolabella_p
         <br/>
